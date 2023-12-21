@@ -50,7 +50,7 @@
   .BlackOutline:hover {
     /* background-color: #242a3d;
     color: white; */
-    background-color: #242a3d;
+    background-color: purple;
     color: aliceblue;
   }
   
@@ -60,10 +60,10 @@
     color: #242a3d;
     border-color: #242a3d; */
     background-color: aliceblue;
-    color: #242a3d;
+    color: purple;
   }
   
   .Bright {
-    background-color: #2ed9ff;
-    color: purple;
+    background-color: purple;
+    color: white;
   }
